@@ -2,6 +2,8 @@ const express = require("express");
 const app = express();
 const port = 3000;
 
+//endpoints
+
 app.get("/", (req, res) => {
   res.send(
     "<h1>CI/CD Demo App</h1> <h4>Message: Success</h4> <p>Version 1.0.0</p>"

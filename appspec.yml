@@ -1,3 +1,4 @@
+# EC2 deployment configuration
 version:  0.0
 os: linux
 files:

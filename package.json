@@ -1,5 +1,5 @@
 {
-  "name": "d1-on-ec2",
+  "name": "express-app",
   "version": "1.0.0",
   "description": "A sample application to demonstrate fundamental concepts of DevOps - CI/CD.",
   "main": "index.js",
